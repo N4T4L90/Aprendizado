@@ -1,0 +1,5 @@
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI1048\URI1048\obj\Debug\netcoreapp2.1\URI1048.csproj.AssemblyReference.cache
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI1048\URI1048\obj\Debug\netcoreapp2.1\URI1048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI1048\URI1048\obj\Debug\netcoreapp2.1\URI1048.AssemblyInfoInputs.cache
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI1048\URI1048\obj\Debug\netcoreapp2.1\URI1048.AssemblyInfo.cs
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI1048\URI1048\obj\Debug\netcoreapp2.1\URI1048.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+C:\Users\745 G3\Documents\GitHub\aprendizado\Idade média\Idade média\bin\Debug\netcoreapp2.1\Idade média.deps.json
+C:\Users\745 G3\Documents\GitHub\aprendizado\Idade média\Idade média\bin\Debug\netcoreapp2.1\Idade média.runtimeconfig.json
+C:\Users\745 G3\Documents\GitHub\aprendizado\Idade média\Idade média\bin\Debug\netcoreapp2.1\Idade média.runtimeconfig.dev.json
+C:\Users\745 G3\Documents\GitHub\aprendizado\Idade média\Idade média\bin\Debug\netcoreapp2.1\Idade média.dll
+C:\Users\745 G3\Documents\GitHub\aprendizado\Idade média\Idade média\bin\Debug\netcoreapp2.1\Idade média.pdb
+C:\Users\745 G3\Documents\GitHub\aprendizado\Idade média\Idade média\obj\Debug\netcoreapp2.1\Idade média.csproj.AssemblyReference.cache
+C:\Users\745 G3\Documents\GitHub\aprendizado\Idade média\Idade média\obj\Debug\netcoreapp2.1\Idade média.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\745 G3\Documents\GitHub\aprendizado\Idade média\Idade média\obj\Debug\netcoreapp2.1\Idade média.AssemblyInfoInputs.cache
+C:\Users\745 G3\Documents\GitHub\aprendizado\Idade média\Idade média\obj\Debug\netcoreapp2.1\Idade média.AssemblyInfo.cs
+C:\Users\745 G3\Documents\GitHub\aprendizado\Idade média\Idade média\obj\Debug\netcoreapp2.1\Idade média.csproj.CoreCompileInputs.cache
+C:\Users\745 G3\Documents\GitHub\aprendizado\Idade média\Idade média\obj\Debug\netcoreapp2.1\Idade média.dll
+C:\Users\745 G3\Documents\GitHub\aprendizado\Idade média\Idade média\obj\Debug\netcoreapp2.1\Idade média.pdb
+C:\Users\745 G3\Documents\GitHub\aprendizado\Idade média\Idade média\obj\Debug\netcoreapp2.1\Idade média.genruntimeconfig.cache

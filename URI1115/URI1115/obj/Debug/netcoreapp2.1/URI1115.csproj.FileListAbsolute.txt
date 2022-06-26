@@ -1,0 +1,13 @@
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI1115\URI1115\obj\Debug\netcoreapp2.1\URI1115.csproj.AssemblyReference.cache
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI1115\URI1115\obj\Debug\netcoreapp2.1\URI1115.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI1115\URI1115\obj\Debug\netcoreapp2.1\URI1115.AssemblyInfoInputs.cache
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI1115\URI1115\obj\Debug\netcoreapp2.1\URI1115.AssemblyInfo.cs
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI1115\URI1115\obj\Debug\netcoreapp2.1\URI1115.csproj.CoreCompileInputs.cache
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI1115\URI1115\bin\Debug\netcoreapp2.1\URI1115.deps.json
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI1115\URI1115\bin\Debug\netcoreapp2.1\URI1115.runtimeconfig.json
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI1115\URI1115\bin\Debug\netcoreapp2.1\URI1115.runtimeconfig.dev.json
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI1115\URI1115\bin\Debug\netcoreapp2.1\URI1115.dll
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI1115\URI1115\bin\Debug\netcoreapp2.1\URI1115.pdb
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI1115\URI1115\obj\Debug\netcoreapp2.1\URI1115.dll
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI1115\URI1115\obj\Debug\netcoreapp2.1\URI1115.pdb
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI1115\URI1115\obj\Debug\netcoreapp2.1\URI1115.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI-1038\URI-1038\bin\Debug\netcoreapp2.1\URI-1038.deps.json
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI-1038\URI-1038\bin\Debug\netcoreapp2.1\URI-1038.runtimeconfig.json
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI-1038\URI-1038\bin\Debug\netcoreapp2.1\URI-1038.runtimeconfig.dev.json
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI-1038\URI-1038\bin\Debug\netcoreapp2.1\URI-1038.dll
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI-1038\URI-1038\bin\Debug\netcoreapp2.1\URI-1038.pdb
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI-1038\URI-1038\obj\Debug\netcoreapp2.1\URI-1038.csproj.AssemblyReference.cache
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI-1038\URI-1038\obj\Debug\netcoreapp2.1\URI-1038.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI-1038\URI-1038\obj\Debug\netcoreapp2.1\URI-1038.AssemblyInfoInputs.cache
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI-1038\URI-1038\obj\Debug\netcoreapp2.1\URI-1038.AssemblyInfo.cs
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI-1038\URI-1038\obj\Debug\netcoreapp2.1\URI-1038.csproj.CoreCompileInputs.cache
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI-1038\URI-1038\obj\Debug\netcoreapp2.1\URI-1038.dll
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI-1038\URI-1038\obj\Debug\netcoreapp2.1\URI-1038.pdb
+C:\Users\745 G3\Documents\GitHub\aprendizado\URI-1038\URI-1038\obj\Debug\netcoreapp2.1\URI-1038.genruntimeconfig.cache
